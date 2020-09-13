@@ -5,7 +5,7 @@ public class Piece {
     protected Position position;
     private Board board;
 
-    public Board getBoard() {
+    protected Board getBoard() {
         return board;
     }
 
